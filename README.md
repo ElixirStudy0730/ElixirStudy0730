@@ -1,8 +1,21 @@
 # ElixirStudy0730
-0730팀은 elixir를 한국에 전파하기 위해 조직된 스터디 모임입니다.
+0730팀은 elixir를 한국에 전파하기 위해 조직된 스터디 모임입니다. 하이브아레나에서 모이는 [Elixir Meetup](https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/)모임에서 영향을 받아서 시작되었으며 매주 수요일 오후 7시에 하이브아레나에서 모여서 진행합니다. 관심 있으신 분은 [페이스북 그룹](https://www.facebook.com/groups/264605587286921/)으로 연락주세요.
+  
+## The details of the research goals are:
+- Creating a simple blog engine,
+- Learning easily by people who do not know Ruby,
+- Setting up development environment,
+- Processing experiences according to various error situations.
 
+## Inspired by
+ - https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/
 
-### Study Log
+## Channel
+ - [slack link](https://hivearena.slack.com/?redir=%2Farchives%2F_elixirstudy)
+ - [페이스북 그룹](https://www.facebook.com/groups/264605587286921/)
+-------------
+
+### Study Log (각자 날짜별로 작성합니다. )
 
 #### 20160125 (홍승우)
   - Github 페이지 생성
@@ -12,8 +25,13 @@
   - 다음 스터디에는 환경구축 경험을 공유할 계획임
 
 
+#### 20170125 (육창수)
+  - Elixir virtualenv 환경구축해보기(있다면)
+  - 학습 플랜 짜기.
+
+
 #### 20160125 (tong92)
-  - Window & Linux 환경 설정
+  - Window Elixir 환경 설정
 
 
 ### 읽을 거리
