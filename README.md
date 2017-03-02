@@ -14,7 +14,6 @@
  - [slack link](https://hivearena.slack.com/?redir=%2Farchives%2F_elixirstudy)
  - [페이스북 그룹](https://www.facebook.com/groups/264605587286921)
 
-
 -------------
 
 ### Study Log (각자 날짜별로 작성합니다. )
@@ -26,19 +25,18 @@
   - 각자 미디엄에 셀프 스터디 글작성후 올리기
   - 다음 스터디에는 환경구축 경험을 공유할 계획임
 
-
 #### 20170125 (육창수)
   - Elixir virtualenv 환경구축해보기(있다면)
   - 학습 플랜 짜기.
 
-
 #### 20170125 (tong92)
   - Window Elixir 환경 설정
-
 
 #### 20170209 (hongsw)
   - [Elixir로 15분안에 블로그를 만들자](https://medium.com/@hongseungwoo/elixir%EB%A1%9C-15%EB%B6%84%EC%95%88%EC%97%90-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%9E%90-435d99944f7f#.erd6fvj7x)
 
+#### 20170303 (hongsw)
+  - [Phoenix + Webpack2](https://github.com/ElixirStudy0730/phoenix_webpack2)
 
 ### 읽을 거리
   - [Elixir 101 공부하자 - VIM으로 환경 설정 하기 및 30일 공부할 주제 안내 ](https://medium.com/@hongseungwoo/elixir-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EC%9E%90-01-7a60c76a8ea9#.nmls0g3y5)
