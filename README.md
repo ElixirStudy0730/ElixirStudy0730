@@ -1,4 +1,11 @@
 # ElixirStudy0730
+
+ElixirStudy0730
+We study building websites with the Elixir and Phoenix framework by pooling our knowledge and information on various error situations as well as development environments.
+Contact : ajinsys at ajinsys.com 
+Every Wednesday 07:30 pm at Hive Arena in Seoul
+
+
 0730팀은 elixir를 한국에 전파하기 위해 조직된 스터디 모임입니다. 하이브아레나에서 모이는 [Elixir Meetup](https://www.meetup.com/ko-KR/Seoul-Elixir-Meetup/)모임에서 영향을 받아서 시작되었으며 매주 수요일 오후 7시에 하이브아레나에서 모여서 진행합니다. 관심 있으신 분은 [페이스북 그룹](https://www.facebook.com/groups/264605587286921/)으로 연락주세요.
 
 ## The details of the research goals are:
